@@ -1,0 +1,33 @@
+.slider {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+.sepet {
+    justify-content: center;
+    text-align: -webkit-center;
+}
+
+.sepetItem {
+    width: 500px;
+}
+
+.px500 {
+    width: 500px;
+}

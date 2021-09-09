@@ -1,0 +1,33 @@
+.box {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 15px;
+    width: 170px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.box>img {
+    border-radius: 15px;
+}
+
+.slideImage {
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.basket {
+    margin: 5px;
+    margin-top: 15px;
+    border: 0.5px solid #000000;
+    border-radius: 15px;
+}
+
+.addCartButton {
+    margin: 2px;
+    background: transparent;
+    border: 0px;
+    cursor: pointer;
+}
